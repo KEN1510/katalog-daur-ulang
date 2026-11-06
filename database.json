@@ -1,0 +1,223 @@
+[
+    {
+        "id": "1",
+        "nama_produk": "Jam Dinding Tutup Botol",
+        "kategori": ["tutup-botol", "alat-elektronik"],
+        "deskripsi_singkat": "Jam dinding estetik dari rangkaian tutup botol dan mesin jam bekas.",
+        "pas_foto": "assets/img/jam-dinding.jpg",
+        "bahan_alat": {
+            "alat": ["Lem tembak", "Gunting", "Obeng"],
+            "bahan": ["Tutup botol bekas (30 pcs)", "Mesin jam dinding lama", "Kardus tebal"]
+        },
+        "cara_membuat": [
+            "Potong kardus berbentuk lingkaran sebagai alas.",
+            "Susun dan tempel tutup botol melingkar menggunakan lem tembak.",
+            "Pasang mesin jam di bagian tengah alas kardus."
+        ],
+        "estimasi_biaya": 5000
+    },
+    {
+        "id": "2",
+        "nama_produk": "Lampu Meja Kabel USB & Pipa",
+        "kategori": ["alat-elektronik", "plastik-lain"],
+        "deskripsi_singkat": "Lampu belajar estetis dari komponen bekas kabel USB, lampu LED kecil, dan pipa plastik.",
+        "pas_foto": "assets/img/lampu-meja.jpg",
+        "bahan_alat": {
+            "alat": ["Solder", "Gunting", "Lem tembak"],
+            "bahan": ["Kabel USB bekas", "Lampu LED 5V", "Pipa plastik bekas", "Botol plastik tebal sebagai dudukan"]
+        },
+        "cara_membuat": [
+            "Potong pipa plastik sesuai tinggi yang diinginkan untuk tiang lampu.",
+            "Sambungkan kabel LED ke kabel USB dengan cara disolder.",
+            "Rakit rangkaian lampu pada ujung pipa dan perkuat posisinya menggunakan lem tembak pada dudukan."
+        ],
+        "estimasi_biaya": 4000
+    },
+    {
+        "id": "3",
+        "nama_produk": "Robot Mini Mainan Edukasi",
+        "kategori": ["alat-elektronik", "besi-kaleng"],
+        "deskripsi_singkat": "Mainan robot anak interaktif yang ditenagai motor getar bekas ponsel.",
+        "pas_foto": "assets/img/robot-mini.jpg",
+        "bahan_alat": {
+            "alat": ["Solder", "Pemotong kaleng", "Lem tembak"],
+            "bahan": ["Motor getar bekas HP", "Baterai koin", "Kaleng minuman bekas", "Kabel kecil"]
+        },
+        "cara_membuat": [
+            "Potong badan kaleng untuk membentuk kerangka tubuh robot.",
+            "Tempelkan motor getar dan baterai koin di bagian atas kerangka.",
+            "Hubungkan kabel ke baterai untuk menggerakkan robot."
+        ],
+        "estimasi_biaya": 3000
+    },
+    {
+        "id": "4",
+        "nama_produk": "Pot Gantung Tanaman Unik",
+        "kategori": ["botol-plastik", "plastik-lain"],
+        "deskripsi_singkat": "Pot tanaman hias gantung hemat tempat dari botol bekas air mineral besar.",
+        "pas_foto": "assets/img/pot-gantung.jpg",
+        "bahan_alat": {
+            "alat": ["Cutter", "Paku panaskan", "Gunting"],
+            "bahan": ["Botol plastik 1.5L", "Tali tambang plastik", "Cat semprot"]
+        },
+        "cara_membuat": [
+            "Potong bagian samping botol secara memanjang menggunakan cutter.",
+            "Buat lubang di bagian bawah botol untuk pembuangan air.",
+            "Warnai permukaan luar botol dengan cat semprot dan pasang tali penggantung."
+        ],
+        "estimasi_biaya": 2500
+    },
+    {
+        "id": "5",
+        "nama_produk": "Celengan Karakter Lucu",
+        "kategori": ["botol-plastik", "kertas-karton"],
+        "deskripsi_singkat": "Celengan unik berbentuk hewan dari botol plastik yang dilapisi kertas karton.",
+        "pas_foto": "assets/img/celengan-botol.jpg",
+        "bahan_alat": {
+            "alat": ["Gunting", "Lem kertas", "Cutter"],
+            "bahan": ["Botol plastik bekas", "Kertas karton warna-warni", "Spidol hitam"]
+        },
+        "cara_membuat": [
+            "Potong dan gabungkan bagian bawah botol plastik menjadi bentuk wadah pendek.",
+            "Buat celah koin pada bagian atas penutup atau bodi botol.",
+            "Lapisi seluruh permukaan luar botol dengan kertas karton dan gambar detail wajah karakter."
+        ],
+        "estimasi_biaya": 2000
+    },
+    {
+        "id": "6",
+        "nama_produk": "Bingkai Foto Mosaik Tutup Botol",
+        "kategori": ["tutup-botol", "kertas-karton"],
+        "deskripsi_singkat": "Bingkai foto warna-warni dari susunan tutup botol bekas di atas papan kardus.",
+        "pas_foto": "assets/img/bingkai-foto.jpg",
+        "bahan_alat": {
+            "alat": ["Lem tembak", "Gunting", "Penggaris"],
+            "bahan": ["Kardus tebal", "Tutup botol bekas berbagai warna", "Plastik mika tipis"]
+        },
+        "cara_membuat": [
+            "Potong kardus membentuk bingkai persegi dengan lubang di bagian tengah.",
+            "Tempelkan tutup botol secara rapat di sekeliling bingkai menggunakan lem tembak.",
+            "Pasang plastik mika di bagian belakang lubang untuk menempatkan foto."
+        ],
+        "estimasi_biaya": 3000
+    },
+    {
+        "id": "7",
+        "nama_produk": "Tempat Pensil Estetik Tutup Botol",
+        "kategori": ["tutup-botol", "besi-kaleng"],
+        "deskripsi_singkat": "Wadah alat tulis meja yang dilapisi kombinasi tutup botol dan kaleng bekas.",
+        "pas_foto": "assets/img/tempat-pensil.jpg",
+        "bahan_alat": {
+            "alat": ["Lem tembak", "Gunting"],
+            "bahan": ["Kaleng bekas", "Tutup botol bekas", "Cat akrilik"]
+        },
+        "cara_membuat": [
+            "Bersihkan kaleng bekas dari sisa label atau kotoran.",
+            "Tempelkan tutup botol secara melingkar menutupi seluruh permukaan luar kaleng.",
+            "Cat bagian tutup botol dengan warna seragam agar terlihat rapi dan elegan."
+        ],
+        "estimasi_biaya": 4000
+    },
+    {
+        "id": "8",
+        "nama_produk": "Dompet Mini Kantong Plastik",
+        "kategori": ["plastik-lain"],
+        "deskripsi_singkat": "Dompet koin tahan air kreatif yang terbuat dari lapisan kantong plastik setrika.",
+        "pas_foto": "assets/img/dompet-plastik.jpg",
+        "bahan_alat": {
+            "alat": ["Setrika", "Kertas baking", "Gunting"],
+            "bahan": ["Kantong plastik warna-warni", "Resleting bekas"]
+        },
+        "cara_membuat": [
+            "Tumpuk beberapa lembar kantong plastik di antara kertas baking.",
+            "Setrika tumpukan tersebut dengan suhu sedang agar plastik menyatu menjadi lembaran tebal.",
+            "Jahit atau lem resleting pada lembaran plastik tebal yang sudah dibentuk menjadi dompet."
+        ],
+        "estimasi_biaya": 2000
+    },
+    {
+        "id": "9",
+        "nama_produk": "Bunga Hias Plastik Kresek",
+        "kategori": ["plastik-lain", "kertas-karton"],
+        "deskripsi_singkat": "Dekorasi bunga tiruan cantik yang dibuat dari limbah kantong plastik kresek.",
+        "pas_foto": "assets/img/bunga-plastik.jpg",
+        "bahan_alat": {
+            "alat": ["Gunting", "Lilin / Korek api", "Kawat kecil"],
+            "bahan": ["Kantong plastik warna-warni", "Kardus bekas untuk alas vas"]
+        },
+        "cara_membuat": [
+            "Gunting kantong plastik membentuk kelopak bunga.",
+            "Panaskan pinggiran plastik secara hati-hati di atas api lilin agar sedikit melengkung natural.",
+            "Rangkai kelopak pada kawat kecil hingga menyerupai tangkai bunga utuh."
+        ],
+        "estimasi_biaya": 1500
+    },
+    {
+        "id": "10",
+        "nama_produk": "Laci Mini Organiser Kardus",
+        "kategori": ["kertas-karton"],
+        "deskripsi_singkat": "Kotak penyimpanan laci susun serbaguna untuk meja belajar dari kardus bekas.",
+        "pas_foto": "assets/img/laci-kardus.jpg",
+        "bahan_alat": {
+            "alat": ["Cutter", "Lem tembak", "Penggaris"],
+            "bahan": ["Kardus tebal bekas mi instan/sepatu", "Kertas kado pelapis"]
+        },
+        "cara_membuat": [
+            "Buat kerangka balok besar sebagai rumah laci menggunakan kardus.",
+            "Buat beberapa kotak kecil terpisah yang pas dimasukkan ke dalam kerangka sebagai laci.",
+            "Lapisi seluruh bagian luar laci dan kerangka dengan kertas kado agar tampak rapi."
+        ],
+        "estimasi_biaya": 5000
+    },
+    {
+        "id": "11",
+        "nama_produk": "Tempat Lampu Hias Meja",
+        "kategori": ["kertas-karton", "alat-elektronik"],
+        "deskripsi_singkat": "Abajur atau penutup lampu hias estetik bertekstur unik dari tumpukan kardus.",
+        "pas_foto": "assets/img/lampu-kardus.jpg",
+        "bahan_alat": {
+            "alat": ["Cutter", "Lem kayu"],
+            "bahan": ["Kardus bekas tebal", "Fitting lampu dan kabel"]
+        },
+        "cara_membuat": [
+            "Potong kardus menjadi puluhan kepingan pola cincin atau kotak dengan ukuran bertingkat.",
+            "Susun dan rekatkan kepingan tersebut secara vertikal membentuk rongga tabung.",
+            "Pasang fitting lampu di bagian tengah rongga tabung kardus."
+        ],
+        "estimasi_biaya": 6000
+    },
+    {
+        "id": "12",
+        "nama_produk": "Lampu Tidur Kaleng Estetik",
+        "kategori": ["besi-kaleng", "alat-elektronik"],
+        "deskripsi_singkat": "Lampu tidur dengan efek pendaran cahaya pola lubang artistik dari kaleng bekas.",
+        "pas_foto": "assets/img/lampu-kaleng.jpg",
+        "bahan_alat": {
+            "alat": ["Paku", "Palu", "Cat semprot hitam"],
+            "bahan": ["Kaleng bekas", "Fitting lampu", "Kabel dan bohlam kecil"]
+        },
+        "cara_membuat": [
+            "Buat pola gambar pada permukaan kaleng menggunakan spidol.",
+            "Lubangi kaleng mengikuti pola menggunakan paku dan palu secara hati-hati.",
+            "Cat luar kaleng dengan warna hitam, lalu masukkan rangkaian lampu di dalamnya."
+        ],
+        "estimasi_biaya": 7000
+    },
+    {
+        "id": "13",
+        "nama_produk": "Vas Bunga Gantung Kaleng",
+        "kategori": ["besi-kaleng", "botol-plastik"],
+        "deskripsi_singkat": "Vas bunga dinding minimalis modern dari kaleng bekas dengan aksen tali.",
+        "pas_foto": "assets/img/vas-kaleng.jpg",
+        "bahan_alat": {
+            "alat": ["Paku", "Palu", "Gunting"],
+            "bahan": ["Kaleng bekas", "Tali rami", "Botol plastik kecil untuk wadah air di dalam"]
+        },
+        "cara_membuat": [
+            "Lubangi bagian atas kaleng untuk cantolan paku dinding.",
+            "Lilitkan tali rami pada sekumpulan bodi kaleng agar tampak natural dan estetik.",
+            "Masukkan potongan botol plastik berisi air ke dalam kaleng sebagai wadah agar kaleng tidak berkarat terkena air."
+        ],
+        "estimasi_biaya": 3500
+    }
+]
