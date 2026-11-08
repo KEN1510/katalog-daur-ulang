@@ -11,7 +11,7 @@ Sebuah file yang menyimpan data terkait prakarya yang terbuat dari sampah daur u
 * besi-kaleng (warna ...)
 
 
-## STRUKTUR FILE database.json
+## STRUKTUR FILE database.json (contoh)
 [
     {
         "id": "1",
@@ -33,5 +33,3 @@ Sebuah file yang menyimpan data terkait prakarya yang terbuat dari sampah daur u
 ]
 
 catatan: satu produk bisa punya jenis sampah yang mungkin sama atau bisa dibilang produk tersebut memerlukan lebih dari satu jenis sampah, misal membutuhkan tutup botol bekas dan alat elektronik untuk membuat jam dinding dengan hiasan tutup botol.
-
-

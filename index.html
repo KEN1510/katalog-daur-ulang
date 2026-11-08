@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DaurUlang.in - Eco Glassmorphism</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+
+    <nav class="navbar glass-nav px-4 sticky-top">
+        <a class="navbar-brand fw-bold text-success" href="#">♻️ DaurUlang.in</a>
+    </nav>
+
+    <div class="container my-4">
+        <header class="glass-hero text-center mb-5">
+            <h1 class="display-6 fw-bold text-dark mb-3">Katalog Kreasi Daur Ulang</h1>
+            <p class="text-secondary mb-4">Inspirasi ramah lingkungan untuk masa depan yang lebih hijau.</p>
+            <div class="d-flex flex-wrap justify-content-center gap-2">
+                <button class="filter-btn">Semua</button>
+                <button class="filter-btn" value="alat-elektronik">Alat Elektronik</button>
+                <button class="filter-btn" value="botol-plastik">Botol Plastik</button>
+                <button class="filter-btn" value="plastik-lain">Plastik Lain</button>
+                <button class="filter-btn" value="tutup-botol">Tutup Botol</button>
+                <button class="filter-btn" value="kertas-karton">Kertas Karton</button>
+                <button class="filter-btn" value="besi-kaleng">Besi Kaleng</button>
+            </div>
+        </header>
+
+        <main class="flex-grow-1">
+            <div class="row g-4" id="product-container"></div>
+        </main>
+    </div>
+
+    <!-- MODAL DETAIL PRODUK (DINAMIS BERDASARKAN ID) -->
+    <div class="modal fade" id="productModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content border-0 shadow-lg rounded-4 overflow-hidden">
+                <div class="modal-header bg-white border-bottom-0 pb-0 pt-4 px-4">
+                    <h5 class="modal-title fw-bold text-success">Detail Produk</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body p-5">
+                    <div class="row g-4 align-items-center">
+                        <div class="col-md-5">
+                            <!-- ID untuk gambar produk -->
+                            <img id="modal-img" src="" alt="Produk"
+                                class="img-fluid rounded-4 shadow-sm w-100 object-fit-cover" style="height: 260px;">
+                        </div>
+                        <div class="col-md-7">
+                            <!-- ID untuk judul produk -->
+                            <h3 id="modal-title" class="fw-bold text-dark mb-2"></h3>
+                            <!-- ID untuk menampung badge kategori -->
+                            <div id="modal-categories" class="mb-3"></div>
+                            <!-- ID untuk deskripsi singkat -->
+                            <p id="modal-desc" class="text-secondary small mb-3"></p>
+                            <div class="d-flex justify-content-between align-items-center bg-light p-3 rounded-3 mb-2">
+                                <span class="text-muted small">Estimasi Biaya:</span>
+                                <!-- ID untuk estimasi biaya -->
+                                <span id="modal-biaya" class="fw-bold text-success fs-5"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="my-4 text-muted opacity-25">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <h6 class="fw-bold text-dark mb-2">Alat yang Dibutuhkan:</h6>
+                            <!-- ID untuk list alat -->
+                            <ul id="modal-alat" class="small text-secondary ps-3 mb-0"></ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="fw-bold text-dark mb-2">Bahan yang Dibutuhkan:</h6>
+                            <!-- ID untuk list bahan -->
+                            <ul id="modal-bahan" class="small text-secondary ps-3 mb-0"></ul>
+                        </div>
+                    </div>
+                    <div class="mt-4">
+                        <h6 class="fw-bold text-dark mb-2">Cara Membuat:</h6>
+                        <!-- ID untuk langkah-langkah pembuatan -->
+                        <ol id="modal-langkah" class="small text-secondary ps-3 mb-0"></ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+
+</body>
+</html>

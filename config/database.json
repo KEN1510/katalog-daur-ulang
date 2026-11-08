@@ -1,0 +1,97 @@
+[
+    {
+        "id": "1",
+        "nama_produk": "Jam Dinding Tutup Botol",
+        "kategori": ["tutup-botol", "alat-elektronik"],
+        "deskripsi_singkat": "Jam dinding estetik bergaya industrial dari rangkaian tutup botol bekas dan mesin jam dinding lama.",
+        "pas_foto": "assets/imgs/jam-dinding.jpg",
+        "bahan_alat": {
+            "alat": ["Lem tembak (hot glue gun)", "Gunting serbaguna", "Obeng kecil", "Jangka atau pensil"],
+            "bahan": ["30 pcs tutup botol plastik bekas (bersih)", "1 set mesin jam dinding bekas beserta jarumnya", "1 lembar kardus tebal ukuran 30x30 cm", "Kertas kado atau cat semprot hitam doff"]
+        },
+        "cara_membuat": [
+            "Buat pola lingkaran berdiameter 25 cm pada kardus tebal menggunakan jangka, lalu potong rapi menggunakan gunting atau cutter.",
+            "Lapisi permukaan kardus lingkaran dengan kertas kado atau cat semprot hitam doff sebagai latar belakang agar tampak kontras.",
+            "Tandai titik tengah lingkaran kardus, lalu lubangi sedikit untuk memasukkan poros as mesin jam.",
+            "Susun dan tempelkan 30 tutup botol plastik secara melingkar di pinggiran sisi luar kardus menggunakan lem tembak dengan jarak rapi.",
+            "Pasang mesin jam dari sisi belakang kardus, kencangkan mur penguncinya di bagian depan, lalu pasang jarum jam dan baterai."
+        ],
+        "estimasi_biaya": 6000
+    },
+    {
+        "id": "2",
+        "nama_produk": "Lampu Meja Kabel USB & Pipa",
+        "kategori": ["alat-elektronik", "plastik-lain"],
+        "deskripsi_singkat": "Lampu belajar minimalis ramah lingkungan yang ditenagai port USB dari komponen kabel bekas dan pipa.",
+        "pas_foto": "assets/imgs/lampu-meja.jpg",
+        "bahan_alat": {
+            "alat": ["Solder listrik dan timah", "Gunting atau cutter", "Lem tembak", "Isolasi bakar (heat shrink)"],
+            "bahan": ["1 meter kabel USB bekas yang masih berfungsi", "1 buah modul lampu LED strip 5V / LED kecil", "30 cm potongan pipa plastik PVC bekas", "1 buah botol plastik bekas ukuran 1 liter sebagai pemberat dudukan", "Pasir secukupnya untuk pemberat"]
+        },
+        "cara_membuat": [
+            "Isi bagian dalam botol plastik dudukan dengan sedikit pasir agar kokoh dan tidak mudah roboh, lalu tutup rapat.",
+            "Potong pipa PVC sesuai ukuran tinggi tiang lampu meja yang diinginkan (sekitar 25-30 cm).",
+            "Kupas ujung kabel USB dan sambungkan kabel positif-negatifnya ke modul lampu LED dengan cara disolder, lalu tutup sambungan dengan isolasi bakar.",
+            "Masukkan kabel melalui lubang pipa PVC, lalu pasang lampu LED di ujung atas pipa menggunakan lem tembak.",
+            "Tanamkan bagian bawah pipa ke dalam botol plastik dudukan yang sudah diisi pemberat, lalu uji coba sambungkan ke adaptor USB atau powerbank."
+        ],
+        "estimasi_biaya": 5000
+    },
+    {
+        "id": "3",
+        "nama_produk": "Pot Gantung Tanaman Unik",
+        "kategori": ["botol-plastik", "plastik-lain"],
+        "deskripsi_singkat": "Pot tanaman hias vertikal hemat tempat yang estetik dari botol bekas air mineral besar.",
+        "pas_foto": "assets/imgs/pot-gantung.jpg",
+        "bahan_alat": {
+            "alat": ["Cutter tajam", "Paku kecil yang dipanaskan", "Gunting", "Kuas cat"],
+            "bahan": ["1 buah botol plastik bekas ukuran 1.5 liter", "2 meter tali tambang plastik atau tali rami", "Cat akrilik warna-warni", "Tanah kompos dan bibit tanaman hias kecil"]
+        },
+        "cara_membuat": [
+            "Cuci bersih botol plastik bekas ukuran 1.5 liter dan lepaskan label mereknya.",
+            "Gunakan cutter untuk memotong bagian tengah botol secara memanjang (bentuk jendela oval atau persegi panjang) sebagai tempat media tanam.",
+            "Panaskan ujung paku di atas api, lalu buat 3 hingga 4 lubang kecil di bagian bawah botol sebagai jalur pembuangan air siraman.",
+            "Warnai permukaan luar botol menggunakan cat akrilik dengan pola menarik, lalu tunggu hingga kering sempurna.",
+            "Ikat tali tambang dengan kuat di bagian leher botol dan bagian bawahnya agar posisi pot tergantung seimbang, lalu isi dengan tanah dan tanaman."
+        ],
+        "estimasi_biaya": 3500
+    },
+    {
+        "id": "4",
+        "nama_produk": "Laci Mini Organiser Kardus",
+        "kategori": ["kertas-karton"],
+        "deskripsi_singkat": "Kotak penyimpanan laci susun serbaguna untuk meja belajar yang terbuat dari kardus tebal.",
+        "pas_foto": "assets/imgs/laci-kardus.jpg",
+        "bahan_alat": {
+            "alat": ["Cutter tajam", "Lem tembak (hot glue gun)", "Penggaris besi", "Pensil atau spidol"],
+            "bahan": ["1-2 buah kardus mi instan atau sepatu yang tebal dan kokoh", "1 rol kertas kado motif estetik", "Pita kecil atau kancing bekas sebagai pegangan laci"]
+        },
+        "cara_membuat": [
+            "Ukur dan potong kardus utama membentuk kerangka balok luar (bingkai laci) dengan ukuran sesuai kebutuhan meja.",
+            "Buat 2 atau 3 buah kotak kecil terpisah dari potongan kardus yang ukurannya pas untuk dimasukkan ke dalam kerangka balok luar sebagai laci geser.",
+            "Rekatkan setiap sisi kotak kecil dan kerangka luar menggunakan lem tembak secara kokoh agar tidak mudah lepas.",
+            "Lapisi seluruh permukaan luar dan dalam laci serta kerangka menggunakan kertas kado bermotif rapi menggunakan lem kertas.",
+            "Pasang pita kecil atau kancing bekas pada bagian depan masing-masing laci sebagai pegangan tarik, lalu susun laci ke dalam kerangka."
+        ],
+        "estimasi_biaya": 7000
+    },
+    {
+        "id": "5",
+        "nama_produk": "Lampu Tidur Kaleng Estetik",
+        "kategori": ["besi-kaleng", "alat-elektronik"],
+        "deskripsi_singkat": "Lampu tidur dengan efek pendaran cahaya berpola lubang artistik dari kaleng bekas minuman.",
+        "pas_foto": "assets/imgs/lampu-tidur.jpg",
+        "bahan_alat": {
+            "alat": ["Paku besi ukuran sedang", "Palu", "Gunting seng atau tang", "Cat semprot hitam doff"],
+            "bahan": ["1 buah kaleng bekas minuman atau susu ukuran sedang (bersih)", "1 set fitting lampu kecil dengan kabel colokan", "1 buah bohlam LED kecil hemat energi", "Kertas berpola cetak"]
+        },
+        "cara_membuat": [
+            "Cuci bersih kaleng bekas, lepaskan tutup atasnya secara rapi menggunakan pembuka kaleng atau gunting seng.",
+            "Tempelkan selembar kertas berpola desain titik-titik (seperti bintang atau garis abstrak) melingkari bodi kaleng sebagai panduan.",
+            "Gunakan paku dan palu untuk melubangi bodi kaleng mengikuti titik-titik pola pada kertas secara perlahan agar kaleng tidak penyok.",
+            "Lepaskan kertas panduan, lalu cat seluruh bagian luar dan dalam kaleng menggunakan cat semprot hitam doff dan biarkan mengering.",
+            "Masukkan rangkaian kabel fitting dan bohlam lampu ke dalam kaleng dari bagian bawah atau belakang, lalu letakkan di atas meja tidur."
+        ],
+        "estimasi_biaya": 8000
+    }
+]

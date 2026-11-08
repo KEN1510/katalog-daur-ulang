@@ -1,0 +1,104 @@
+<!-- 8/10 -->
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DaurUlang.in - NeoBrutalism</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #FFFDF9;
+            font-family: system-ui, -apple-system, sans-serif;
+            color: #111;
+        }
+
+        .neo-navbar {
+            background-color: #FFDE59;
+            border-bottom: 4px solid #111;
+        }
+
+        .neo-hero {
+            background-color: #B9FF66;
+            border-bottom: 4px solid #111;
+            padding: 4rem 1rem;
+        }
+
+        .neo-btn {
+            background-color: #FFF;
+            border: 3px solid #111;
+            box-shadow: 4px 4px 0px #111;
+            font-weight: bold;
+            transition: all 0.1s ease;
+        }
+
+        .neo-btn:hover,
+        .neo-btn.active {
+            background-color: #FF5757;
+            color: #fff;
+            transform: translate(-2px, -2px);
+            box-shadow: 6px 6px 0px #111;
+        }
+
+        .neo-card {
+            background-color: #FFF;
+            border: 3px solid #111;
+            box-shadow: 6px 6px 0px #111;
+            transition: transform 0.1s ease;
+        }
+
+        .neo-card:hover {
+            transform: translate(-3px, -3px);
+            box-shadow: 9px 9px 0px #111;
+        }
+
+        .neo-badge {
+            border: 2px solid #111;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <nav class="navbar neo-navbar px-4">
+        <a class="navbar-brand fw-black fs-3 text-dark" href="#">♻️ DAURULANG.IN</a>
+    </nav>
+    <header class="neo-hero text-center">
+        <div class="container">
+            <h1 class="display-4 fw-black mb-3">IDE KREATIF OLAH SAMPAH</h1>
+            <p class="lead fw-bold mb-4">Ubah barang bekas jadi karya bernilai tinggi tanpa ribet!</p>
+            <div class="d-flex flex-wrap justify-content-center gap-2">
+                <button class="btn neo-btn active px-4 py-2">Semua</button>
+                <button class="btn neo-btn px-4 py-2">Alat Elektronik</button>
+                <button class="btn neo-btn px-4 py-2">Botol Plastik</button>
+                <button class="btn neo-btn px-4 py-2">Tutup Botol</button>
+                <button class="btn neo-btn px-4 py-2">Kertas Karton</button>
+                <button class="btn neo-btn px-4 py-2">Besi Kaleng</button>
+            </div>
+        </div>
+    </header>
+    <main class="container my-5 flex-grow-1">
+        <div class="row g-4">
+            <div class="col-md-4 col-sm-6">
+                <div class="neo-card p-3 h-100 d-flex flex-column" data-bs-toggle="modal"
+                    data-bs-target="#productModal1">
+                    <div class="bg-warning border border-3 border-dark rounded mb-3 d-flex align-items-center justify-content-center fw-bold"
+                        style="height: 180px;">Foto Produk 1</div>
+                    <div class="mb-2">
+                        <span class="badge bg-info text-dark neo-badge">tutup-botol</span>
+                        <span class="badge bg-danger text-white neo-badge">alat-elektronik</span>
+                    </div>
+                    <h5 class="fw-bold text-dark">Jam Dinding Tutup Botol</h5>
+                    <p class="text-muted small flex-grow-1">Jam dinding estetik dari rangkaian tutup botol dan mesin jam
+                        bekas.</p>
+                    <button class="btn neo-btn btn-sm mt-2 align-self-start">Lihat Detail</button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
